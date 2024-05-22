@@ -1,0 +1,14 @@
+#myInputhold::placeholder {
+  color: black;
+  opacity: 1;
+  padding-left: 5px;
+}
+
+.Button {
+
+  :hover {
+    color: aliceblue;
+    border: 1px solid black;
+    border-radius: 9px;
+  }
+}
